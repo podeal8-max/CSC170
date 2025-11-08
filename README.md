@@ -16,3 +16,6 @@ Game Summary
 
 Sound effects play when collecting flowers or getting hit.  
 Winning plays a “win.wav” sound; losing plays “lose.wav”.
+
+
+Google Doc: https://docs.google.com/document/d/1_NB8Al_0HNpIL4aGDpMxBAi_zH5uuk-aunkyL5n-bOo/edit?usp=sharing
